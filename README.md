@@ -1,4 +1,4 @@
-- 👋 Hello! I’m Ángel Martínez, an Electrical Engineering student at UPRM.
+- 👋 Hello! I’m Ángel Martínez, a Software Engineering student at UPRM.
 - 👀 I’m interested in Front-End development. I have some experience in HTML and CSS.
 - 🌱 I’m currently learning Object-Oriented Programming in JavaScript.
 - 💞️ I’m looking to collaborate on projects that impact Colegio students' lives.
