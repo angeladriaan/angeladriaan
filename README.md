@@ -1,6 +1,6 @@
 - 👋 Hello! I’m Ángel Martínez, a Software Engineering student at UPRM.
-- 👀 I’m interested in Front-End development. I have some experience in HTML and CSS.
-- 🌱 I’m currently learning Object-Oriented Programming in JavaScript.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning React.js.
 - 💞️ I’m looking to collaborate on projects that impact Colegio students' lives.
 - 📫 Let's connect: www.linkedin.com/in/angel-amm
 
